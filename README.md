@@ -1,2 +1,2 @@
 # flight-price-monitor
-flight-price-monitor  workflow.json  README.md  images  docs
+Automated flight price monitoring using n8n and SerpAPI.
